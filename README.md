@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+selli73;TypeScript+%2F+NestJS+Developer;Node.js+%2B+React+%2B+Vite" alt="Typing SVG" />
 
 </div>
----
+
 
 ### 👋 Обо мне
 
