@@ -3,12 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+selli73;TypeScript+%2F+NestJS+Developer;Node.js+%2B+React+%2B+Vite" alt="Typing SVG" />
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=selli73&label=Profile%20views&color=2F81F7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/selli73?label=Followers&style=flat&color=2F81F7" alt="followers" />
-</p>
-
 ---
 
 ### 👋 Обо мне
