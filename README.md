@@ -12,7 +12,7 @@ I believe that good software is not just about making things work — it's about
 - 🔭 Building backend applications with **NestJS / Node.js**
 - 🏗️ Following **Clean Architecture** principles to build scalable, maintainable, and testable applications
 - 🧩 Applying **SOLID, DRY, KISS**, and separation of concerns in everyday development
-- ⚙️ Using design patterns such as **Dependency Injection, Repository, and Strategy** when appropriate
+- ⚙️ Using design patterns such as **Dependency Injection**
 
 ---
 
@@ -35,6 +35,16 @@ I believe that good software is not just about making things work — it's about
 </p>
 
 ---
+
+### 📈 GitHub Activity
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=selli73&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=58A6FF&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</div>
 
 
 ### 🤝 Connect With Me
