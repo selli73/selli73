@@ -36,12 +36,13 @@ I believe that good software is not just about making things work — it's about
 
 ---
 
+
 ### 📈 GitHub Activity
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=selli73&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=58A6FF&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selli73&theme=github_dark&animation=draw"
+    alt="GitHub Activity"
     width="100%"
   />
 </div>
