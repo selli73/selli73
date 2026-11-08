@@ -7,7 +7,7 @@
 
 ### 👋 About Me
 
-- 🔭 Building backend applications with **NestJS / Node.js** and frontend interfaces with **React + Vite**
+- 🔭 Building backend applications with **NestJS / Node.js**
 - 🏗️ Following **Clean Architecture** principles to build scalable, maintainable, and testable applications
 - 🧩 Applying **SOLID, DRY, KISS**, and separation of concerns in everyday development
 - ⚙️ Using design patterns such as **Dependency Injection, Repository, and Strategy** when appropriate
