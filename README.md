@@ -35,13 +35,12 @@ I believe that good software is not just about making things work — it's about
 ---
 
 
-### 📈 GitHub Activity
+### 🔥 GitHub Streak
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selli73&theme=github_dark&animation=draw"
-    alt="GitHub Activity"
-    width="100%"
+    src="https://streak-stats.demolab.com/?user=selli73&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </div>
 
